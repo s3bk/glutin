@@ -92,7 +92,7 @@ extern crate objc;
     target_os = "openbsd",
 ))]
 #[macro_use]
-extern crate log2;
+extern crate log;
 
 pub mod platform;
 
